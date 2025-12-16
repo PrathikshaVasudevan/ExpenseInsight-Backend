@@ -62,4 +62,4 @@ This backend can be connected to frontend UI tools like Streamlit.
 📌 Author
 
 Prathiksha Vasudevan
-👩‍💻 GitHub: https://github.com/PrathikshaVasudevangit 
+👩‍💻 GitHub: https://github.com/PrathikshaVasudevan
